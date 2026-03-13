@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Lilin&fontSize=46&fontColor=ffffff&color=0:0b1220,100:0ea5e9&animation=fadeIn&desc=Product%20Designer%20%26%20Performance%20Engineer&descAlignY=70" alt="header" />
+  <img src="assets/header.svg" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -67,4 +67,3 @@ If a project needs both product taste and engineering rigor, let’s talk.
 
 - Website: https://liliin.icu
 - GitHub: https://github.com/XiaoNaoWeiSuo
-

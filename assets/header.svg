@@ -1,0 +1,41 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.75" cy="0.35" r="0.6">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7dd3fc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+  <rect width="1200" height="240" fill="url(#glow)"/>
+
+  <g font-family="'Fira Code', 'SF Mono', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" fill="#ffffff">
+    <text x="80" y="120" font-size="56" font-weight="700" letter-spacing="2">Lilin</text>
+    <text x="82" y="160" font-size="16" fill="#e2e8f0" letter-spacing="2">PRODUCT DESIGNER  ·  PERFORMANCE ENGINEER</text>
+  </g>
+
+  <g stroke="#38bdf8" stroke-opacity="0.35">
+    <line x1="820" y1="60" x2="1120" y2="60" />
+    <line x1="820" y1="90" x2="1120" y2="90" />
+    <line x1="820" y1="120" x2="1120" y2="120" />
+    <line x1="820" y1="150" x2="1120" y2="150" />
+    <line x1="820" y1="180" x2="1120" y2="180" />
+  </g>
+
+  <g stroke="#94a3b8" stroke-opacity="0.25">
+    <line x1="820" y1="60" x2="820" y2="180" />
+    <line x1="880" y1="60" x2="880" y2="180" />
+    <line x1="940" y1="60" x2="940" y2="180" />
+    <line x1="1000" y1="60" x2="1000" y2="180" />
+    <line x1="1060" y1="60" x2="1060" y2="180" />
+    <line x1="1120" y1="60" x2="1120" y2="180" />
+  </g>
+</svg>
